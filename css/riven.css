@@ -4,7 +4,6 @@
 
   body {
   color:rgb(245, 245, 245);
-   filter: contrast(100%); 
    background-image: url(../images/mountain_vec_dark.jpg);
    background-size: cover;
   }
@@ -12,14 +11,14 @@
  
 
   h3 {
-    color: #69779b;
+    color: #0af50a;
   }
 
   img {
     filter: brightness(0.9);
   }
   h4 {
-    color: darkred;
+    color: #0af50a;
   }
 
 
@@ -142,4 +141,5 @@ button {
     height: 80px;
     border-radius: 75px;
     border: solid black 5px;
+    cursor: pointer;
   }
